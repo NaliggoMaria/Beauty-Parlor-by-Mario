@@ -1,0 +1,214 @@
+*{
+margin: 0,10px;
+box-sizing: border box;
+/*text-align: center;*/
+font-size: medium;
+line-height: 0.5cm;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background: #ffffff ;
+}
+
+.logo img{
+    height: 160px;
+    width: 160px;
+    padding-top: 10px;
+}
+.logo h1{
+     background-color: rgb(46, 2, 46);
+    padding: 40px;
+    font-size: 60px;
+    color:whitesmoke;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+ 
+.Assets {
+height: 50%;
+width: 100%;
+gap: 30px;
+}
+
+.hair h2{
+   color: rgb(46, 2, 46);;
+    font-size: 40px;
+    margin-bottom: 10px;
+   justify-content: center;
+   margin-top: 50px;
+   
+}
+
+.hair img{
+    display: flex 1;
+    height: 1000px;
+    width: 50%;
+    margin-bottom: top;
+}
+
+
+.banner img{
+   width: 100%;
+   height:1000px;
+   border-radius: 20px;
+}
+
+.banner{
+    width: 100%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.welcome h2 {
+    font-size:50px ;
+   margin-bottom:10px;
+   color:rgb(46, 2, 46);
+}
+
+.background h2{
+font-size: 35px;
+color:whitesmoke;
+background-color:rgb(46, 2, 46);
+padding: 20px;
+margin-bottom:5px;
+margin-top:5px;
+text-align: center;
+}
+
+.vision h3 {
+color:rgb(46, 2, 46);
+font-size: 25px;
+margin-bottom: 5px;
+margin-top: 2px;
+text-align: center;
+}
+.vision P{
+    text-align: center;
+}
+.Mission h4 {
+ color:rgb(46, 2, 46);
+    font-size: 25px;
+   margin-top: 5px;
+   margin-bottom: 2px;
+   text-align: center;
+}
+.Mission P{
+    text-align: center;
+
+}
+.section h3 {
+  color:rgb(46, 2, 46);
+    font-size: 25px;
+}
+.objectives h3{
+    color:rgb(46, 2, 46);
+    font-size: 25px;
+     margin-bottom: 5px;
+     text-align: center;
+}
+.objectives ul li{
+    margin:0 auto;
+    width: 15%;
+}
+
+.Services h2{
+    color:whitesmoke;
+    font-size: 35px;
+    background-color:rgb(46, 2, 46);
+    padding: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+
+.Assets img{
+    height: 600px; 
+    width: 45%;
+}
+
+.btn{
+    margin-top: 20px;
+    text-align: center;
+}
+.btn button{
+   border-radius: 30px; 
+    background-color: blue;
+    color: #f3f0f0;
+    padding: 10px;
+    width: 10%;
+}
+.Follow h2{
+    background-color: rgb(46, 2, 46);
+    color: #f3f0f0;
+    padding: 10px;
+    text-align: center;
+}
+.Follow{
+    text-align: center;
+}
+
+.Contact_info h2{
+    background-color:rgb(46, 2, 46);
+    color: #f3f0f0;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.Contact_info{
+    text-align: center;
+
+}
+footer p{
+    color:rgb(11, 11, 224);
+    text-align: center;
+    margin-top: 30px;
+}
+.Contact_form h3{
+color:rgb(46, 2, 46);
+margin-bottom: 5px;
+text-align: center;
+}
+.Contact_form h2{
+ color:rgb(46, 2, 46);
+ font-size: 30px;
+ margin-top: 30px;
+}
+.Contact_form{
+text-align: center;
+}
+.Contact_form input{
+    width: 50%;
+    margin-top: 15px;
+    padding: 10px;
+    text-align: justify;
+    border-radius: 20px;
+}
+.col-4 h3{
+    font-family: none;
+    font-size: 20px;
+}
+.location p3{
+color:blue;
+text-align: center;
+}
+
+@media (max-width: 500px) {
+    .background h2{
+font-size: 20px;
+color:whitesmoke;
+background-color:rgb(46, 2, 46);
+padding: 20px;
+margin-bottom: 5px;
+}
+.objectives ul li{
+    /*margin:0 auto*/
+    width: 80%;
+}
+}
+
+
+
+
+
+
+
+
